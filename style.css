@@ -1,0 +1,18 @@
+h1{
+    font-family: 'Amatic SC', cursive;
+    margin-top: 20px;
+    font-weight: 600;
+}
+#logo{
+    width: 250px;
+    border-radius: 2000px;
+}
+.divider{
+    background-color: black;
+    width:20%;
+    font-size: 1px;
+}
+label{
+    font-family: 'Playfair Display', serif;
+    font-weight: 300;
+}
